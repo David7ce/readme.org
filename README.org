@@ -32,20 +32,15 @@ Important actors in this film are:
 - Sean Austin :: He plays Sam, Frodo's friend.  I still remember him very well from his role as Mikey Walsh in The Goonies.
 
 ** Images
-This is an image (with svg) 
+This is an image (with svg):
 [[http://melpa.org/packages/org-preview-html-badge.svg]]
-[[#usage][Usage]]
-![](https://raw.githubusercontent.com/jakebox/org-preview-html/master/org-preview-html-demo.gif)
+[[#usage][https://raw.githubusercontent.com/jakebox/org-preview-html/master/org-preview-html-demo.gif]]
+![[https://raw.githubusercontent.com/jakebox/org-preview-html/master/org-preview-html-demo.gif]]
 
 * Todos
 + Improve ~instant~ mode
 + Auto-jump to current position in preview
 
-Inherited:
-Current:
-{ [o] @OFFICE     [h] @HOME    }
-  [C] COMPUTER   [p] PHONE   [r] READING
-
 -------------------------------
 
-More text
+TO see the RAW content click here: https://raw.githubusercontent.com/David7ce/readme.org/main/README.org
