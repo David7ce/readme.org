@@ -12,7 +12,7 @@
 
 * Title
 ** Subtitle
-This a test in Org Mode
+This a test in Org Mode, it is similar to markdown but with different syntaxis.
 ~example of a code~.
 
 /cursive/ =/cursive/=
@@ -32,10 +32,10 @@ Important actors in this film are:
 - Sean Austin :: He plays Sam, Frodo's friend.  I still remember him very well from his role as Mikey Walsh in The Goonies.
 
 ** Images
-This is an image (with svg):
+This is an image org mode:
+- =[[image-url]]=  =[[http://melpa.org/packages/org-preview-html-badge.svg]]=  =[[#usage][https://raw.githubusercontent.com/jakebox/org-preview-html/master/org-preview-html-demo.gif]]=
 [[http://melpa.org/packages/org-preview-html-badge.svg]]
 [[#usage][https://raw.githubusercontent.com/jakebox/org-preview-html/master/org-preview-html-demo.gif]]
-![[https://raw.githubusercontent.com/jakebox/org-preview-html/master/org-preview-html-demo.gif]]
 
 * Todos
 + Improve ~instant~ mode
